@@ -1,0 +1,14 @@
+1) create dataset -> dataset creator
+2) train the recognizer
+3) detector-detector
+
+
+
+Pip install opencv-python
+pip install opencv-contrib-python
+
+
+
+
+
+
